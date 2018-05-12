@@ -12,6 +12,8 @@ covers:
 - cover_type: archival
   image_path: 22009-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22009#HinemoaWith-Notes--amp--Vocabulary
 gutenberg_bookshelf: New Zealand
 gutenberg_issued: '2007-07-06'
 gutenberg_type: Text
