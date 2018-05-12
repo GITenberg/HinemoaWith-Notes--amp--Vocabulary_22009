@@ -1,0 +1,32 @@
+_repo: HinemoaWith-Notes--amp--Vocabulary_22009
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Fletcher, H. J. (Henry James)
+    alias: Fletcher, Henry James
+    birthdate: 1868
+    deathdate: 1933
+    gutenberg_agent_id: '25032'
+    url: http://www.gutenberg.org/2009/agents/25032
+covers:
+- cover_type: archival
+  image_path: 22009-h/images/cover.jpg
+description: ''
+gutenberg_bookshelf: New Zealand
+gutenberg_issued: '2007-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22009'
+language: mi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Maori language -- Texts'
+- !lcsh 'Maori language -- Dictionaries -- English'
+- !lcsh 'Legends -- New Zealand'
+- !lcc 'PL'
+title: 'Hinemoa
+
+  With Notes & Vocabulary'
+url: http://www.gutenberg.org/ebooks/22009
